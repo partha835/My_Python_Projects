@@ -1,0 +1,8 @@
+print('what is your Age?')
+Myage=input()
+print('your age will be '+ str(int(Myage) +1)+' in one year')
+print('Enter your name ')
+MyName= input()
+Size=len(MyName)
+print(Size*3)
+print(Myage *3)
